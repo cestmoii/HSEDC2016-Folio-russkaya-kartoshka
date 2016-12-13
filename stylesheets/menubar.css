@@ -1,0 +1,30 @@
+.menubar {
+  width: 100%;
+}
+
+.menubar div {
+  display: flex;
+  align-items: center;
+  height: 59px;
+  padding: 30px;
+}
+
+.logo {
+  display: block;
+  width: 100px;
+  height: 28px;
+  background-image: url(../images/logo.svg);
+  background-size: cover;
+}
+
+.about {
+  font-size: 14px;
+  line-height: 50px;
+  color: rgba(0,0,0,.2);
+  -webkit-transition: all .5s ease;
+  transition: all .5s ease;
+}
+
+.about:hover {
+  color: rgb(0,0,0,.4);
+}

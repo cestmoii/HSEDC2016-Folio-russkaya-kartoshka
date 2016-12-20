@@ -1,0 +1,27 @@
+.btns {
+  display:  inline-block;
+  border-width: 1px;
+  text-align: center;
+  margin-left: 4px;
+}
+
+.small {
+  width: 300px;
+  height: 40px;
+  line-height: 40px;
+  font-size: 17px;
+  color: white;
+  text-decoration: underline;
+}
+
+.large {
+  width: 300px;
+  height: 50px;
+  line-height: 50px;
+  font-weight: bold;
+  font-size: 17px;
+  color: black;
+  text-decoration: none;
+  background-color: #77FFE1;
+  box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.5);
+}

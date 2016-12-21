@@ -8,7 +8,7 @@
 .small {
   width: 250px;
   height: 40px;
-  line-height: 40px;
+  line-height: 15px;
   font-size: 16px;
   color: white;
   text-decoration: underline;
@@ -28,15 +28,15 @@
 
 @media screen and (max-width: 1180px) {
   .large {
-    width: 228px;
-    height: 38px;
-    line-height: 40px;
-    font-weight: bold;
-    font-size: 17px;
+    width: 214px;
+    height: 36px;
+    line-height: 38px;
+    font-size: 14px;
   }
 
   .small {
     height: 33px;
     font-size: 13px;
+    line-height: 37px;
   }
 }

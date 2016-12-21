@@ -362,12 +362,6 @@ body.landing .menubar div {
 
 @media screen and (max-width: 840px) {
 
-  body.landing.bg {
-    background-image: url(../images/mockups/840.png);
-    background-position: center top;
-    background-color: white;
-  }
-
   .landingWrapper {
     width: 100%;
   }
@@ -428,4 +422,25 @@ body.landing .menubar div {
     height: 403px;
   }
 
+}
+
+@media screen and (-webkit-min-device-pixel-ratio: 2) {
+  #mockup1 {
+  background-image: url(../images/landing/about@2x.jpg);
+}
+
+#mockup2 {
+  background-image: url(../images/landing/about@2x.jpg);
+}
+
+#mockup3 {
+  background-image: url(../images/landing/works@2x.jpg);
+}
+
+#mockup4 {
+  background-image: url(../images/landing/work@2x.jpg);
+}
+#mockup5 {
+  background-image: url(../images/landing/screens@2x.jpg);
+}
 }

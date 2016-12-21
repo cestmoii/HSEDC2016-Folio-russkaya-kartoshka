@@ -421,26 +421,25 @@ body.landing .menubar div {
     width: 759px;
     height: 403px;
   }
-
 }
 
 @media screen and (-webkit-min-device-pixel-ratio: 2) {
   #mockup1 {
   background-image: url(../images/landing/about@2x.jpg);
-}
+  }
 
-#mockup2 {
+  #mockup2 {
   background-image: url(../images/landing/about@2x.jpg);
-}
+  }
 
-#mockup3 {
+  #mockup3 {
   background-image: url(../images/landing/works@2x.jpg);
-}
+  }
 
-#mockup4 {
+  #mockup4 {
   background-image: url(../images/landing/work@2x.jpg);
-}
-#mockup5 {
+  }
+  #mockup5 {
   background-image: url(../images/landing/screens@2x.jpg);
-}
+  }
 }

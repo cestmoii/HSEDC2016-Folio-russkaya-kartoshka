@@ -363,7 +363,6 @@ body.landing .menubar div {
 @media screen and (max-width: 840px) {
 
   body.landing.bg {
-    background-image: url(../images/mockups/840.png);
     background-position: center top;
     background-color: white;
   }
